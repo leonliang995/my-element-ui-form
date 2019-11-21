@@ -9,7 +9,9 @@ import FormTest from './components/FormTest.vue'
 
 export default {
   name: 'app',
+  components: {
     FormTest
+  }
 }
 </script>
 
